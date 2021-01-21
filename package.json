@@ -1,7 +1,7 @@
 {
   "name": "ruby-private-region",
   "main": "./lib/ruby-private-region",
-  "version": "0.5.0",
+  "version": "0.2.0",
   "description": "Highlight line numbers that fall within the private methods",
   "keywords": [
     "ruby"
