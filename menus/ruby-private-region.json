@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ruby-private-region",
+        "command": "ruby-private-region:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ruby-private-region",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ruby-private-region:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
