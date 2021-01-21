@@ -2,13 +2,14 @@
   "name": "ruby-private-region",
   "main": "./lib/ruby-private-region",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Highlight line numbers that fall within the private methods",
   "keywords": [
+    "ruby"
   ],
   "activationCommands": {
     "atom-workspace": "ruby-private-region:toggle"
   },
-  "repository": "https://github.com/atom/ruby-private-region",
+  "repository": "https://github.com/Otterpocket/atom-ruby-private-region",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
