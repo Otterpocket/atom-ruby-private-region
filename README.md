@@ -1,5 +1,5 @@
-# ruby-private-region package
+# Ruby Private Region
 
-A short description of your package.
+A basic package that helps keep track of the visibility of private methods in ruby.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![image](https://user-images.githubusercontent.com/7274458/105425428-4a0e1a80-5c41-11eb-9c14-da51f409c7c9.png)
